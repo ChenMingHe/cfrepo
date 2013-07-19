@@ -1,0 +1,11 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>foundrylogic.vpp</groupId>
+  <artifactId>vpp</artifactId>
+  <version>2.2.1</version>
+  <name>VPP</name>
+  <description>
+Ant velocity extensions
+  </description>
+  <url>http://vpp.sf.net</url>
+</project>
